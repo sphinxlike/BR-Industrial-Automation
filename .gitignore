@@ -1,0 +1,27 @@
+# Binaries folder
+# Use /Binaries or
+*.br
+*.ofs
+*.lst
+*.pil
+
+# Diagnosis folder
+# Use /Diagnosis or
+*.dock
+*.tc
+*.td
+*.brk
+*.tch
+*.set
+
+# Temp folder
+# Use /Temp or
+/Temp/Includes
+/Temp/Objects
+/Temp/Includes
+/Temp/Settings
+/Temp/Transfer
+#/Temp/History is important for me so I didn't include.
+
+# isopen file
+*.isopen
