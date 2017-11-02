@@ -1,2 +1,2 @@
-# BR-Industrial-Automation
-General documents
+# B&R Industrial Automation
+.gitignore file
